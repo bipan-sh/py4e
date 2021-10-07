@@ -5,6 +5,7 @@ def print_lyrics():
     print("blink182")
 
 print_lyrics()
+
 age = input('Enter your dob ')
 
 try:
